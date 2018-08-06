@@ -1,6 +1,6 @@
 {
   "name": "@nolwenture/loopback-connector-postgresql",
-  "version": "3.3.3",
+  "version": "3.3.4",
   "description": "Loopback PostgreSQL Connector that allows left joins",
   "engines": {
     "node": ">=4"
